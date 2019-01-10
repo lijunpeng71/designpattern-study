@@ -9,6 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>10-patternstrategy</module>
+        <module>01-samplefactorystrategy</module>
     </modules>
     <properties>
         <maven.compile.source>1.8</maven.compile.source>
