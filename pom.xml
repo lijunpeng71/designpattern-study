@@ -5,11 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.study</groupId>
-    <artifactId>designpatternstudy</artifactId>
+    <artifactId>designpattern-study</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>10-patternstrategy</module>
         <module>01-samplefactorystrategy</module>
+        <module>10-patternstrategy</module>
+        <module>observerstrategy</module>
     </modules>
     <properties>
         <maven.compile.source>1.8</maven.compile.source>
