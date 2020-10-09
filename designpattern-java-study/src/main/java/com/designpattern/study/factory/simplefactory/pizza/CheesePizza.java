@@ -1,4 +1,4 @@
-package com.designpattern.study.common.pizzastore.pizza;
+package com.designpattern.study.factory.simplefactory.pizza;
 
 public class CheesePizza extends Pizza {
 

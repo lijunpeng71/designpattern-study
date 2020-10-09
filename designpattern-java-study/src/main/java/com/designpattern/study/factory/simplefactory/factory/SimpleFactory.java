@@ -1,9 +1,9 @@
-package com.designpattern.study.factory.simplefactory.pizzastore.factory;
+package com.designpattern.study.factory.simplefactory.factory;
 
-import com.designpattern.study.factory.simplefactory.pizzastore.pizza.CheesePizza;
-import com.designpattern.study.factory.simplefactory.pizzastore.pizza.GreekPizza;
-import com.designpattern.study.factory.simplefactory.pizzastore.pizza.PepperPizza;
-import com.designpattern.study.factory.simplefactory.pizzastore.pizza.Pizza;
+import com.designpattern.study.factory.simplefactory.pizza.Pizza;
+import com.designpattern.study.factory.simplefactory.pizza.CheesePizza;
+import com.designpattern.study.factory.simplefactory.pizza.GreekPizza;
+import com.designpattern.study.factory.simplefactory.pizza.PepperPizza;
 
 public class SimpleFactory {
 

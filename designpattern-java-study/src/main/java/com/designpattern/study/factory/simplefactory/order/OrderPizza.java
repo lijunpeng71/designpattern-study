@@ -1,7 +1,7 @@
-package com.designpattern.study.factory.simplefactory.pizzastore.order;
+package com.designpattern.study.factory.simplefactory.order;
 
-import com.designpattern.study.factory.simplefactory.pizzastore.factory.SimpleFactory;
-import com.designpattern.study.factory.simplefactory.pizzastore.pizza.Pizza;
+import com.designpattern.study.factory.simplefactory.factory.SimpleFactory;
+import com.designpattern.study.factory.simplefactory.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

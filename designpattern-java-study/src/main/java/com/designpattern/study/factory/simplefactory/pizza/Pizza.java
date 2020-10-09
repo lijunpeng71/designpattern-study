@@ -1,4 +1,4 @@
-package com.designpattern.study.common.pizzastore.pizza;
+package com.designpattern.study.factory.simplefactory.pizza;
 
 /**
  * pizza抽象类

@@ -1,9 +1,9 @@
-package com.designpattern.study.common.pizzastore.order;
+package com.designpattern.study.factory.pizzastore.order;
 
-import com.designpattern.study.common.pizzastore.pizza.CheesePizza;
-import com.designpattern.study.common.pizzastore.pizza.GreekPizza;
-import com.designpattern.study.common.pizzastore.pizza.PepperPizza;
-import com.designpattern.study.common.pizzastore.pizza.Pizza;
+import com.designpattern.study.factory.pizzastore.pizza.CheesePizza;
+import com.designpattern.study.factory.pizzastore.pizza.GreekPizza;
+import com.designpattern.study.factory.pizzastore.pizza.PepperPizza;
+import com.designpattern.study.factory.pizzastore.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;
